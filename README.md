@@ -1,6 +1,5 @@
 ### Hi there, I'm Christopher Spencer 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
 **christopher-spencer/christopher-spencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
