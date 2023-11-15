@@ -1,4 +1,4 @@
-<h1 align="center" >Hi there, my name is Christopher Spencer 👋 </h1>
+<h1 align="center" >Christopher Spencer 👋 </h1>
 
 <div align="center">
   <a href="https://github.com/christopher-spencer">
