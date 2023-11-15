@@ -62,3 +62,4 @@ currently_learning: [ "AWS Certified Cloud Practitioner, C# and ASP.net" ]
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
+
