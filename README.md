@@ -12,6 +12,8 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400" height="250"/>
 </div>
@@ -55,3 +57,6 @@ currently_learning: [ "AWS Certified Cloud Practitioner, C# and ASP.net" ]
 
 2023_goals: [ "First AWS Certification, learn React, learn .NET, and begin a Full-Stack .NET/React project" ]
 ```
+<div align="center" >
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christopher-spencer&theme=tokyonight" />
+</div>
