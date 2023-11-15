@@ -69,7 +69,7 @@ currently_working_on:
   [
     "Choose-Your-Own-Adventure-Framework Java project",
     "Comics-Zines-Web-Application",
-    "Portfolio",
+    "Portfolio site",
     "City-Tours-Website"    
   ]
 
