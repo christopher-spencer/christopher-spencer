@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, my name is Christopher Spencer 👋 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="600" height="350"/>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400" height="250"/>
 </div>
 
 ### 🚀 Technical Skills:
