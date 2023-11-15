@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlabb" width="45" height="45"/>          
 </p>
 
-<div>
+<div align="right">
 <h1> About Me: </h1>
 </div>
 
