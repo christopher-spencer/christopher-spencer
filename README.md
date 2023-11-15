@@ -27,7 +27,9 @@
 ## 🚀 About Me: 
 ```yaml
 name: Christopher Spencer
+pronouns: he/him
 located_in: Columbus, OH
+
 current_job: Software Developer (Open for Work)! 
 company: Tech Elevator Alumni
 
@@ -36,19 +38,8 @@ education:
     "Java Development Bootcamp Student - Tech Elevator",
     "B.A. in English - The Ohio State University"
   ]
+
+currently_learning: [ "AWS Certified Cloud Practitioner, C# and ASP.net" ]
+
+2023_goals: [ "First AWS Certification, learn React, learn .NET, and begin a Full-Stack .NET/React project" ]
 ```
-
-<!--
-**christopher-spencer/christopher-spencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
