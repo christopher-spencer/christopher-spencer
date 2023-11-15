@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400" height="250"/>
 </div>
 
-## 🚀 Technical Skills:
+<h1> Technical Skills: </h1>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -38,7 +38,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlabb" width="45" height="45"/>          
 </p>
 
-## 🚀 About Me: 
+<div>
+<h1> About Me: </h1>
+</div>
+
 ```yaml
 name: Christopher Spencer
 pronouns: he/him
