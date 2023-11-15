@@ -61,3 +61,5 @@ currently_learning: [ "AWS Certified Cloud Practitioner, C# and ASP.net" ]
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christopher-spencer&theme=tokyonight" />
 </div>
 
+![Snake animation](https://github.com/christopher-spencer/christopher-spencer/blob/output/github-contribution-grid-snake.svg)
+
