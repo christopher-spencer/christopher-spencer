@@ -1,10 +1,9 @@
-<h1 align="center">Hi there, my name is Christopher Spencer 👋 </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="400" height="250"/>
 </div>
 
-### 🚀 Technical Skills:
+## 🚀 Technical Skills:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -24,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlabb" width="45" height="45"/>          
 </p>
 
-### 🚀 About Me:
+## 🚀 About Me: 
 ```yaml
 name: Christopher Spencer
 located_in: Columbus, OH
@@ -37,6 +36,7 @@ education:
     "B.A. in English - The Ohio State University"
   ]
 ```
+
 <!--
 **christopher-spencer/christopher-spencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
