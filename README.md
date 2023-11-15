@@ -64,8 +64,15 @@ experience:
   ]
 
 currently_learning: [ "AWS Certified Cloud Practitioner, C# and ASP.net" ]
+currently_reading: [ "Programming Pearls by Jon Bentley" ]
+currently_working_on:
+  [
+    { Choose-Your-Own-Adventure-Framework: "Adding more games like Tic-Tac-Toe to this Java-based CLI choose-your-own-adventure project" },
+    { Comics/Zines/Publications Web Application: "Designing a Full-Stack application to showcase my work as a writer and cartoonist" },
+    { Portfolio: "Designing an updated dev portfolio to replace my current dev porfolio" }    
+  ]
 
-2023_goals: [ "First AWS Certification, learn React, learn .NET, and begin a Full-Stack .NET/React project" ]
+2023_goals: [ "First AWS Certification, learn React, learn .NET, and keep making buddies in the Columbus Tech community" ]
 ```
 <div align="center" >
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christopher-spencer&theme=tokyonight" />
