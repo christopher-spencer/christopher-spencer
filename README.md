@@ -1,5 +1,7 @@
 <h1 align="center" >Hi there, my name is Christopher Spencer 👋 </h1>
 
+<img src="https://drive.google.com/uc?export=view&id=1JHE9KO3lLqI9P_CQugJtJ9bZFBBC0xEz" />
+
 <div align="center">
   <a href="https://github.com/christopher-spencer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
