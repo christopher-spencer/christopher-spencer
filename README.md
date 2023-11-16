@@ -23,9 +23,9 @@
 <br>
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="180px" width="170px" />
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="160px" width="150px" />
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="380" height="250"/>
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="180px" width="170px" />
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="160px" width="150px" />
 </div>
 
 <br>
