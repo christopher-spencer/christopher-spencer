@@ -40,7 +40,7 @@
   </a>
 </div>
 
-<div align="right">
+<div>
 <h1> About Me: </h1>
 </div>
 
