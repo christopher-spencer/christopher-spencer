@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1POpUPBbh1biu_ecu8ovKxj02hwzRm9l4" />
+<img src="https://drive.google.com/uc?export=view&id=1WDbOJrxdLU5tLkr2JJ7zV4GeH8XaSSpD" />
 
 <h1> Technical Skills: </h1>
 <p align="left">
