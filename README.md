@@ -1,7 +1,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1WDbOJrxdLU5tLkr2JJ7zV4GeH8XaSSpD" />
 
 <h1> Technical Skills: </h1>
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
