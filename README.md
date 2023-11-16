@@ -1,5 +1,3 @@
-<h1 align="center" >Hi there, my name is Christopher Spencer 👋 </h1>
-
 <img src="https://drive.google.com/uc?export=view&id=1JHE9KO3lLqI9P_CQugJtJ9bZFBBC0xEz" />
 
 <div align="center">
