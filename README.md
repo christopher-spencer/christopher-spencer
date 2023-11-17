@@ -88,7 +88,6 @@ currently_working_on:
   <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
   <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
   <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
 </p>
 
 <div align="center" >
@@ -96,7 +95,6 @@ currently_working_on:
 </div>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
   <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
   <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
   <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
