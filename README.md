@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1WDbOJrxdLU5tLkr2JJ7zV4GeH8XaSSpD" />
+<img src="https://drive.google.com/uc?export=view&id=1WDbOJrxdLU5tLkr2JJ7zV4GeH8XaSSpD" title="Christopher Spencer - Software Developer" alt="Christopher Spencer - Software Developer" />
 
 <h1> Technical Skills: </h1>
 <p align="center">
@@ -23,22 +23,22 @@
 <br>
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="160px" width="150px" />
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="380" height="250"/>
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="160px" width="150px" />
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="160px" width="150px" title="Hello there!" alt="tech guy cartoon logo" />
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="380" height="250" alt="Software Developer GIF" title="clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="160px" width="150px" title="Hello there!" alt="tech guy cartoon logo"/>
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/christopher-spencer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="Check out my GitHub!" alt="GitHub Link" />
   </a>
   <a href="https://www.linkedin.com/in/christopher-dale-spencer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Check out my LinkedIn!" alt="LinkedIn Link" />
   </a>
   <a href="https://christopher-spencer.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" title="Check out my Portfolio!" alt="Portfolio Link" />
   </a>
 </div>
 
@@ -82,23 +82,23 @@ currently_working_on:
 ```
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="It's" alt="tech guy cartoon logo"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="a" alt="tech guy cartoon logo"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="beautiful" alt="tech guy cartoon logo"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="day" alt="tech guy cartoon logo"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="to" alt="tech guy cartoon logo"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="code!" alt="tech guy cartoon logo"/>
 </p>
 
 <div align="center" >
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christopher-spencer&theme=tokyonight" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christopher-spencer&theme=tokyonight" title="Github Stats" alt="GitHub Stats" />
 </div>
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" />
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="Goodbye" alt="tech guy cartoon logo"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="there!" alt="tech guy cartoon logo"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="Have" alt="tech guy cartoon logo"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="a" alt="tech guy cartoon logo"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="great" alt="tech guy cartoon logo"/>
+  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="50px" width="45px" title="day!" alt="tech guy cartoon logo"/>
 </p>
