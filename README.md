@@ -65,7 +65,7 @@ experience:
     "Java Development Bootcamp Student - Tech Elevator",
     "Contractor - Architectural Remodeling",
     "Writer - (Freelance Writer)",
-    "Cartoonist - (Freelance Cartoonist)"
+    "Illustrator/Cartoonist - (Freelance Cartoonist)"
   ]
 
 currently_learning: [ "AWS Certified Cloud Practitioner, C# and ASP.net" ]
