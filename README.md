@@ -74,7 +74,7 @@ currently_reading: [ "Programming Pearls by Jon Bentley" ]
 currently_working_on:
   [
     "Choose-Your-Own-Adventure-Framework Java project",
-    "Comics-Zines-Web-Application",
+    "Cartoonism-Web-Application",
     "Portfolio site",
     "City-Tours-Website"    
   ]
