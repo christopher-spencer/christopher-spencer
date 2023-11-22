@@ -68,7 +68,7 @@ experience:
     "Illustrator/Cartoonist - (Freelance Cartoonist)"
   ]
 
-currently_learning: [ "AWS Certified Cloud Practitioner, C# and ASP.net" ]
+currently_learning: [ "Contributing to Open Source, AWS Certified Cloud Practitioner, C# and ASP.net" ]
 currently_reading: [ "Programming Pearls by Jon Bentley" ]
 
 currently_working_on:
