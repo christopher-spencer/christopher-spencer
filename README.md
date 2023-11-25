@@ -79,7 +79,7 @@ currently_working_on:
     "City-Tours-Website"    
   ]
 
-2023_goals: [ "First AWS Certification, learn React, learn .NET, and keep making tech buddies" ]
+2023_goals: [ "First AWS Certification, study React, study .NET, and keep making tech buddies" ]
 ```
 
 <p align="center">
