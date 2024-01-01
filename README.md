@@ -80,8 +80,6 @@ currently_working_on:
     "Portfolio site",
     "City-Tours-Website"    
   ]
-
-2024_goals: [ "Study React and .NET, learn Docker, get Cartoonism-Web-Application up and moving, start a Raspberry Pi project" ]
 ```
 
 <p align="center">
