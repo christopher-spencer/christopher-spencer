@@ -70,7 +70,7 @@ experience:
 
 certifications: [ "Amazon Web Services (AWS) Certified Cloud Practitioner" ]
 
-currently_learning: [ "React, C# and ASP.net" ]
+currently_learning: [ "React, C# && ASP.net" ]
 currently_reading: [ "Programming Pearls by Jon Bentley" ]
 
 currently_working_on:
@@ -79,6 +79,16 @@ currently_working_on:
     "Cartoonism-Web-Application",
     "Portfolio site",
     "City-Tours-Website"    
+  ]
+
+2024 goals:
+  [
+    "Learn React && .NET && Docker",
+    "Continue to familiarize w/ AWS && Azure && Cloud Computing in general",
+    "Build Raspberry Pi project",
+    "Play w/ Large Language Models && AI",
+    "Get Cartoonism-Web-Application up && running",
+    "Keep making tech buddies"
   ]
 ```
 
