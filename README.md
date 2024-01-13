@@ -83,6 +83,7 @@ currently_working_on:
 
 2024 goals:
   [
+    "Deep dive into Java Documentation",
     "Learn React && .NET && Docker",
     "Continue to familiarize w/ AWS && Azure && Cloud Computing in general",
     "Build Raspberry Pi project",
