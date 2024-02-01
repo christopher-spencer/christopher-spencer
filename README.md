@@ -86,7 +86,7 @@ currently_working_on:
     "Deep dive into Java Documentation",
     "Learn React && .NET",
     "Utilize Docker",
-    "Continue to familiarize w/ AWS && Azure && Cloud Computing in general",
+    "Continue to familiarize w/ AWS && Azure && Cloud Computing",
     "Build Raspberry Pi project",
     "Play w/ Large Language Models && AI",
     "Get Cartoonism-Web-Application up && running",
