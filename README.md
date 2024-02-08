@@ -72,7 +72,7 @@ experience:
 
 certifications: [ "Amazon Web Services (AWS) Certified Cloud Practitioner" ]
 
-currently_learning: [ "React && .NET" ]
+currently_learning: [ "React && ASP.NET Web API" ]
 currently_reading: [ "Programming Pearls by Jon Bentley" ]
 
 currently_working_on:
