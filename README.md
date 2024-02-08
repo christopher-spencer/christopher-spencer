@@ -86,8 +86,9 @@ currently_working_on:
 2024 goals:
   [
     "Deep dive into Java Documentation",
-    "Learn React",
-    "Learn to use an MVC pattern and the ASP.NET Web API in .NET projects",
+    "Study React",
+    "Study how to use an MVC pattern and the ASP.NET Web API in my .NET projects",
+    "Study CI/CD",
     "Utilize Docker",
     "Continue to familiarize w/ AWS && Azure && Cloud Computing",
     "Build Raspberry Pi project",
