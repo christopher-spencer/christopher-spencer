@@ -94,6 +94,7 @@ currently_working_on:
     "Build Raspberry Pi project",
     "Play w/ Large Language Models && AI",
     "Get Cartoonism-Web-Application up && running",
+    "Get The-Things-You-Carry-Application up && running",
     "Design and create an original multiplayer game",
     "Keep making tech buddies"
   ]
