@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=1WDbOJrxdLU5tLkr2JJ7zV4GeH8XaSSpD" title="Christopher Spencer - Software Developer" alt="Christopher Spencer - Software Developer" />
 
-<img src="https://drive.google.com/drive/u/1/search" title="Christopher Spencer - Software Developer" alt="Christopher Spencer - Software Developer" />
+<img src="https://drive.google.com/thumbnail?id={1WDbOJrxdLU5tLkr2JJ7zV4GeH8XaSSpD}&sz=w1000" title="Christopher Spencer - Software Developer" alt="Christopher Spencer - Software Developer" />
 
 <h1> Technical Skills: </h1>
 <p align="center">
