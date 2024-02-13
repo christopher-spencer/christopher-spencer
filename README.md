@@ -1,5 +1,3 @@
-<img src="https://drive.google.com/uc?export=view&id=1WDbOJrxdLU5tLkr2JJ7zV4GeH8XaSSpD" title="Christopher Spencer - Software Developer" alt="Christopher Spencer - Software Developer" />
-
 <img src="https://drive.google.com/thumbnail?id=1WDbOJrxdLU5tLkr2JJ7zV4GeH8XaSSpD&sz=w1000" title="Christopher Spencer - Software Developer" alt="Christopher Spencer - Software Developer" />
 
 <h1> Technical Skills: </h1>
@@ -27,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="160px" width="150px" title="Hello there!" alt="tech guy cartoon logo" />
+  <img src="https://drive.google.com/thumbnail?id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808&sz=w1000" height="160px" width="150px" title="Hello there!" alt="tech guy cartoon logo" />
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="380" height="250" alt="Software Developer GIF" title="clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack-clickety-clack"/>
   <img src="https://drive.google.com/uc?export=view&id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808" height="160px" width="150px" title="Hello there!" alt="tech guy cartoon logo"/>
 </div>
