@@ -87,7 +87,7 @@ currently_working_on:
   [
     "Deep dive into Java Documentation",
     "Study React",
-    "Study how to use an MVC pattern and the ASP.NET Web API in my .NET projects",
+    "Research ideal Open Source projects && make contributions",
     "Study CI/CD",
     "Utilize Docker",
     "Continue to familiarize w/ AWS && Azure && Cloud Computing",
