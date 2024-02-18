@@ -77,30 +77,10 @@ currently_reading: [ "Programming Pearls by Jon Bentley" ]
 
 currently_working_on:
   [
-    {
-      "Choose-Your-Own-Adventure-Framework":
-        {
-          "Skills": "Java, IntelliJ, Git, Unit Testing (JUnit)"
-        }
-    },
-    {
-      "Cartoonism-Web-Application":
-        {
-          "Skills": "Vue.js, HTML, CSS, JavaScript, Java, IntelliJ, VSCode, Postman, Spring Boot, PostgreSQL, Git, Unit Testing (JUnit), Integration Testing"
-        }
-    },
-    {
-      "Dev-Portfolio":
-        {
-          "Skills": "C#/.NET, VSCode, ASP.NET Web API, ADO.NET, Git, Unit Testing, Integration Testing, Vue.js, HTML, CSS, JavaScript, Postman"
-        }
-    },
-    {
-      "City-Tours-Website":
-        {
-          "Skills": "Vue.js, HTML, CSS, JavaScript, Java, IntelliJ, VSCode, Postman, Spring Boot, PostgreSQL, Git, Unit Testing (JUnit), Integration Testing"
-        }
-    }    
+    "Choose-Your-Own-Adventure-Framework",
+    "Cartoonism-Web-Application",
+    "Dev-Portfolio",
+    "City-Tours-Website"   
   ]
 
 2024 goals:
