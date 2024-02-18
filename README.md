@@ -77,8 +77,8 @@ currently_reading: [ "Programming Pearls by Jon Bentley" ]
 
 currently_working_on:
   [
-    "Choose-Your-Own-Adventure-Framework Java project",
-    "Cartoonism-Web-Application",
+    "Choose-Your-Own-Adventure-Framework (Java, IntelliJ, Git, Unit Testing (JUnit)",
+    "Cartoonism-Web-Application" (Vue.js, HTML, CSS, JavaScript, Java, IntelliJ, VSCode, Spring Boot, PostgreSQL, Git, Unit Testing (JUnit), Integration Testing"
     "Dev-Portfolio",
     "City-Tours-Website"    
   ]
