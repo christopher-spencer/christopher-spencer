@@ -86,9 +86,7 @@ currently_working_on:
 
 2024 goals:
   [
-    "Deep dive into Java Documentation",
-    "Study React",
-    "Research ideal Open Source projects && make contributions",
+    "Research Open Source projects && make contributions",
     "Study CI/CD",
     "Utilize Docker",
     "Continue to familiarize w/ AWS && Azure && Cloud Computing",
