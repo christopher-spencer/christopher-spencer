@@ -74,7 +74,7 @@ experience:
 certifications: [ "Amazon Web Services (AWS) Certified Cloud Practitioner" ]
 
 currently_learning: [ "React" ]
-currently_reading: [ "Programming Pearls by Jon Bentley" ]
+currently_reading: [ "Programming Pearls by Jon Bentley && Foundation by Isaac Asimov" ]
 
 currently_working_on:
   [
