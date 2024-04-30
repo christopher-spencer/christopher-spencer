@@ -75,6 +75,7 @@ certifications: [ "Amazon Web Services (AWS) Certified Cloud Practitioner" ]
 
 currently_learning: [ "React && TypeScript && Nx Generators" ]
 currently_reading: [ "Programming Pearls by Jon Bentley && Foundation by Isaac Asimov" ]
+currently_watching: [ "For All Mankind" ]
 
 currently_working_on:
   [
