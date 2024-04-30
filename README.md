@@ -87,12 +87,11 @@ currently_working_on:
 2024 goals:
   [
     "Research Open Source projects && make contributions",
-    "Study DevOps && CI/CD",
+    "Study DevOps && CI/CD && automation",
     "Utilize Docker",
     "Continue to familiarize w/ AWS && Azure && Cloud Computing",
     "Build a Raspberry Pi project",
     "Play w/ Large Language Models && AI",
-    "Get The-Things-You-Carry-Application up && running",
     "Keep making tech buddies"
   ]
 ```
