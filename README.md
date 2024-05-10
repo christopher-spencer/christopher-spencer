@@ -75,7 +75,7 @@ experience:
 
 certifications: [ "Amazon Web Services (AWS) Certified Cloud Practitioner" ]
 
-currently_learning: [ "React && TypeScript && Nx Generators && Figma" ]
+currently_learning: [ "React && TypeScript && Nx Generators" ]
 currently_reading: [ "Foundation by Isaac Asimov" ]
 currently_watching: [ "For All Mankind && Battlestar Galactica" ]
 
