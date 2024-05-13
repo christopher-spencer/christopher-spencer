@@ -56,7 +56,7 @@ name: Christopher Spencer
 pronouns: he/him
 located_in: Columbus, OH
 
-current_job: Software Developer (Open for Work)! 
+current_job: Software Developer (Open for Work)
 company: Tech Elevator Alumni
 
 education:
