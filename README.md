@@ -92,7 +92,7 @@ currently_working_on:
     "Research Open Source projects && make contributions",
     "Study DevOps && CI/CD && automation",
     "Utilize Docker",
-    "Continue to familiarize w/ AWS && Azure && Cloud Computing",
+    "Continue to familiarize w/ AWS && Cloud Computing",
     "Build a Raspberry Pi project",
     "Play w/ Large Language Models && AI",
     "Keep making tech buddies"
