@@ -67,6 +67,7 @@ education:
 
 experience:
   [
+    "Consultant Intern - Olive & Coop",
     "Java Development Bootcamp Student - Tech Elevator",
     "Contractor - Architectural Remodeling",
     "Writer - (Freelance Writer)",
