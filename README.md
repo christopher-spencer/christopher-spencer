@@ -56,7 +56,12 @@ name: Christopher Spencer
 pronouns: he/him
 located_in: Columbus, OH
 
-current_job: Software Developer (Open for Work)
+current_job: 
+  [
+    "Consultant Intern",
+    "Software Developer (Open for Work)"
+  ]
+
 company: 
   [
     "Olive & Coop - Internship",
