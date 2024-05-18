@@ -99,10 +99,10 @@ currently_working_on:
 
 volunteering:
   [
-    "WitCon 2023 - GetWitIt Columbus",
-    "CodeMash Conference 2024 - CodeMash",
+    "Ohio Tech Summit 2024 - OhioX",
     "Stir Trek 2024 - Stir Trek Conference, Inc.",
-    "Ohio Tech Summit 2024 - OhioX"
+    "CodeMash Conference 2024 - CodeMash",
+    "WitCon 2023 - GetWitIt Columbus"
   ]
 
 2024 goals:
