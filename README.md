@@ -83,7 +83,7 @@ experience:
     "Illustrator/Cartoonist - (Freelance Cartoonist)"
   ]
 
-certifications: [ "Amazon Web Services (AWS) Certified Cloud Practitioner" ]
+certifications: [ "AWS Certified Cloud Practitioner - Amazon Web Services" ]
 
 currently_learning: [ "React && TypeScript && Nx Generators" ]
 currently_reading: [ "Foundation by Isaac Asimov" ]
