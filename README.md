@@ -97,6 +97,14 @@ currently_working_on:
     "Something-Fishy"   
   ]
 
+volunteering:
+  [
+    "WitCon 2023 - GetWitIt Columbus",
+    "CodeMash Conference 2024 - CodeMash",
+    "Stir Trek 2024 - Stir Trek Conference, Inc.",
+    "Ohio Tech Summit 2024 - OhioX"
+  ]
+
 2024 goals:
   [
     "Research Open Source projects && make contributions",
