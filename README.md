@@ -62,7 +62,7 @@ current_job:
     "Software Developer (Open for Work)"
   ]
 
-company: 
+associated_companies: 
   [
     "Olive & Coop - Internship",
     "Tech Elevator - Alumni"
