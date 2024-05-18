@@ -52,9 +52,9 @@
 </div>
 
 ```yaml
-name: Christopher Spencer
-pronouns: he/him
-located_in: Columbus, OH
+name: "Christopher Spencer"
+pronouns: "he/him"
+located_in: "Columbus, OH"
 
 current_job: 
   [
