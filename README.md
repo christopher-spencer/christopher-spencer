@@ -107,9 +107,9 @@ volunteering:
 
 2024 goals:
   [
-    "Research Open Source projects && make contributions",
-    "Study DevOps && CI/CD && automation",
-    "Utilize Docker",
+    "Research Open Source projects to make contributions to && study/learn from",
+    "Study DevOps && CI/CD && Automation",
+    "Utilize Docker && Study Containerization",
     "Continue to familiarize w/ AWS && Cloud Computing",
     "Build a Raspberry Pi project",
     "Play w/ Large Language Models && AI",
