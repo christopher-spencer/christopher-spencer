@@ -94,7 +94,7 @@ currently_working_on:
     "Choose-Your-Own-Adventure-Framework",
     "Cartoonism-Web-Application",
     "Dev-Portfolio",
-    "Something-Fishy"   
+    "Something-Fishy-Application"   
   ]
 
 volunteering:
