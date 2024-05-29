@@ -109,7 +109,7 @@ volunteering:
   [
     "Research Open Source projects to make contributions to && study/learn from",
     "Study DevOps && CI/CD && Automation",
-    "Utilize Docker && Study Containerization",
+    "Study Containerization && Utilize Docker",
     "Continue to familiarize w/ AWS && Cloud Computing",
     "Build a Raspberry Pi project",
     "Play w/ Large Language Models && AI",
