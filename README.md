@@ -87,7 +87,7 @@ certifications: [ "AWS Certified Cloud Practitioner - Amazon Web Services" ]
 
 currently_learning: [ "React && TypeScript && Go" ]
 currently_reading: [ "Foundation by Isaac Asimov" ]
-currently_watching: [ "For All Mankind && Battlestar Galactica" ]
+currently_watching: [ "Dr. Who && Battlestar Galactica" ]
 
 currently_working_on:
   [
