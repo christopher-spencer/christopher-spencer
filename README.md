@@ -59,7 +59,7 @@ located_in: "Columbus, OH"
 current_job: 
   [
     "Consultant Intern",
-    "Software Developer (Open for Work)"
+    "Software Developer"
   ]
 
 associated_companies: 
