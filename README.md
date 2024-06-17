@@ -85,7 +85,7 @@ experience:
 
 certifications: [ "AWS Certified Cloud Practitioner - Amazon Web Services" ]
 
-currently_learning: [ "React && TypeScript && Go && Notion" ]
+currently_learning: [ "React && TypeScript && Go" ]
 currently_reading: [ "Foundation by Isaac Asimov" ]
 currently_watching: [ "Battlestar Galactica" ]
 
