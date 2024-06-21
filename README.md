@@ -58,14 +58,7 @@ located_in: "Columbus, OH"
 
 current_job: 
   [
-    "Consultant Intern",
     "Software Developer"
-  ]
-
-associated_companies: 
-  [
-    "Olive & Coop - Internship",
-    "Tech Elevator - Alumni"
   ]
 
 education:
