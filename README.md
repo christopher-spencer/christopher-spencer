@@ -58,7 +58,7 @@ located_in: "Columbus, OH"
 
 current_job: 
   [
-    "Software Developer"
+    "Software Development Consultant at CGI"
   ]
 
 education:
@@ -69,6 +69,7 @@ education:
 
 experience:
   [
+    "Software Development Consultant - CGI",
     "Consultant Intern - Olive & Coop",
     "Java Development Bootcamp Student - Tech Elevator",
     "Contractor - Architectural Remodeling",
