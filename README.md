@@ -119,16 +119,3 @@ volunteering:
   <img src="https://drive.google.com/thumbnail?id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808&sz=w1000" height="50px" width="45px" title="to" alt="tech guy cartoon logo"/>
   <img src="https://drive.google.com/thumbnail?id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808&sz=w1000" height="50px" width="45px" title="code!" alt="tech guy cartoon logo"/>
 </p>
-
-<div align="center" >
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=christopher-spencer&theme=tokyonight" title="Github Stats" alt="GitHub Stats" />
-</div>
-
-<p align="center">
-  <img src="https://drive.google.com/thumbnail?id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808&sz=w1000" height="50px" width="45px" title="Goodbye" alt="tech guy cartoon logo"/>
-  <img src="https://drive.google.com/thumbnail?id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808&sz=w1000" height="50px" width="45px" title="there!" alt="tech guy cartoon logo"/>
-  <img src="https://drive.google.com/thumbnail?id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808&sz=w1000" height="50px" width="45px" title="Have" alt="tech guy cartoon logo"/>
-  <img src="https://drive.google.com/thumbnail?id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808&sz=w1000" height="50px" width="45px" title="a" alt="tech guy cartoon logo"/>
-  <img src="https://drive.google.com/thumbnail?id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808&sz=w1000" height="50px" width="45px" title="great" alt="tech guy cartoon logo"/>
-  <img src="https://drive.google.com/thumbnail?id=1yi2sWac1BQWrphg4kYi3N44CL91Qt808&sz=w1000" height="50px" width="45px" title="day!" alt="tech guy cartoon logo"/>
-</p>
